@@ -1,6 +1,6 @@
 <?php 
 
-namespace Opencp\Gatway\Tpsl;
+namespace Opencp\Gatways\Tpsl;
 
 class Tpsl extends BaseGateway{
 

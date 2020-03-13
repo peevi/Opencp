@@ -1,6 +1,6 @@
 <?php
 
-namespace Opencp\Gateway;
+namespace Opencp\Gateways;
 
 class BaseGateway{
 
