@@ -1,0 +1,12 @@
+{
+    "name": "opencp/gateways",
+    "description": "Open Gateways",
+    "type": "library",
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Opencp\\Gateway\\": "src/Opencp/"
+        }
+    }
+}
