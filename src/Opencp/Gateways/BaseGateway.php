@@ -2,7 +2,7 @@
 
 namespace Opencp\Gateway;
 
-abstract class BaseGateway{
+class BaseGateway{
 
     
 }
