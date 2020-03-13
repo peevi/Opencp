@@ -1,6 +1,6 @@
 <?php 
 
-namespace Opencp\Gatways\Tpsl;
+namespace Opencp\Gateways\Tpsl;
 
 class TpslNetbanking extends Tpsl{
 
